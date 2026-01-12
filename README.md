@@ -1,4 +1,4 @@
-# MusicKitApp
+# Resumix
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ## 📱 概要
 
-MusicKitAppは、Apple Musicライブラリを快適に管理できるiOSアプリケーションです。プレイリスト管理、再生履歴の記録、統計情報の表示など、Apple Musicをより便利に使うための機能を提供します。
+Resumixは、Apple Musicライブラリを快適に管理できるiOSアプリケーションです。プレイリスト管理、再生履歴の記録、統計情報の表示など、Apple Musicをより便利に使うための機能を提供します。
 
 ## ✨ 主な機能
 
@@ -57,17 +57,17 @@ MusicKitAppは、Apple Musicライブラリを快適に管理できるiOSアプ�
 
 - すべてのデータはローカルまたはユーザーのiCloudに保存
 - 外部サーバーへのデータ送信なし
-- 詳細は [プライバシーポリシー](https://tokomac.github.io/MusicKitApp/privacy-policy.html) をご確認ください
+- 詳細は [プライバシーポリシー](https://tokomac.github.io/Resumix/privacy-policy.html) をご確認ください
 
 ## 📄 ドキュメント
 
-- [プライバシーポリシー](https://tokomac.github.io/MusicKitApp/privacy-policy.html)
-- [利用規約](https://tokomac.github.io/MusicKitApp/terms-of-service.html)
-- [お問い合わせ](https://tokomac.github.io/MusicKitApp/contact.html)
+- [プライバシーポリシー](https://tokomac.github.io/Resumix/privacy-policy.html)
+- [利用規約](https://tokomac.github.io/Resumix/terms-of-service.html)
+- [お問い合わせ](https://tokomac.github.io/Resumix/contact.html)
 
 ## 📧 サポート
 
-ご質問、フィードバック、不具合の報告は [お問い合わせページ](https://tokomac.github.io/MusicKitApp/contact.html) からお願いします。
+ご質問、フィードバック、不具合の報告は [お問い合わせページ](https://tokomac.github.io/Resumix/contact.html) からお願いします。
 
 ## 👨‍💻 開発
 
@@ -79,7 +79,7 @@ MusicKitAppは、Apple Musicライブラリを快適に管理できるiOSアプ�
 
 ## 📱 Overview
 
-MusicKitApp is an iOS application for managing your Apple Music library. It provides features to enhance your Apple Music experience, including playlist management, playback history tracking, and statistics display.
+Resumix is an iOS application for managing your Apple Music library. It provides features to enhance your Apple Music experience, including playlist management, playback history tracking, and statistics display.
 
 ## ✨ Key Features
 
@@ -122,17 +122,17 @@ MusicKitApp is an iOS application for managing your Apple Music library. It prov
 
 - All data is stored locally or in the user's iCloud
 - No data transmission to external servers
-- See [Privacy Policy](https://tokomac.github.io/MusicKitApp/privacy-policy-en.html) for details
+- See [Privacy Policy](https://tokomac.github.io/Resumix/privacy-policy-en.html) for details
 
 ## 📄 Documentation
 
-- [Privacy Policy](https://tokomac.github.io/MusicKitApp/privacy-policy-en.html)
-- [Terms of Service](https://tokomac.github.io/MusicKitApp/terms-of-service-en.html)
-- [Contact](https://tokomac.github.io/MusicKitApp/contact-en.html)
+- [Privacy Policy](https://tokomac.github.io/Resumix/privacy-policy-en.html)
+- [Terms of Service](https://tokomac.github.io/Resumix/terms-of-service-en.html)
+- [Contact](https://tokomac.github.io/Resumix/contact-en.html)
 
 ## 📧 Support
 
-For questions, feedback, or bug reports, please contact us through the [Contact page](https://tokomac.github.io/MusicKitApp/contact-en.html).
+For questions, feedback, or bug reports, please contact us through the [Contact page](https://tokomac.github.io/Resumix/contact-en.html).
 
 ## 👨‍💻 Development
 
